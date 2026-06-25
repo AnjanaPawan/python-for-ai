@@ -1,6 +1,6 @@
 name = "Anjana pawan"
 
-name = name.lower()
+name = name.upper()
 
 print(name.find("pawan"))
 
