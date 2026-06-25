@@ -1,8 +1,8 @@
-name = "I love python"
+name = "Anjana pawan"
 
 name = name.lower()
 
-print(name.find("python"))
+print(name.find("pawan"))
 
 
 
