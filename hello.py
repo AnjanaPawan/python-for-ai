@@ -1,8 +1,4 @@
-name = "Anjana pawan"
-
-name = name.upper()
-
-print(name.find("pawan"))
-
-
-
+x = 10
+y = 20 
+sum =x + y
+print(sum)
